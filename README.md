@@ -76,11 +76,6 @@
         </ul>
     </div>
 
-    <div class="stats">
-        <h3>Github Stats</h3>
-        <p>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)</p>
-    </div>
-
     <div class="connect">
         <h3>Connect With Me 🤝</h3>
         <a href="https://github.com/your_github_username" target="_blank">GitHub</a>
